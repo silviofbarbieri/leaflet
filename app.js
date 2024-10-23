@@ -18,8 +18,8 @@ var greenIcon = L.icon({
     iconUrl: 'https://t3.ftcdn.net/jpg/02/73/16/24/240_F_273162497_ShAAB1TH0vhM4UUWbhBuao8jtGBDubwD.jpg',
     shadowUrl: 'https://t3.ftcdn.net/jpg/02/73/16/24/240_F_273162497_ShAAB1TH0vhM4UUWbhBuao8jtGBDubwD.jpg',
 
-    iconSize:     [38, 95], // size of the icon
-    shadowSize:   [50, 64], // size of the shadow
+    iconSize:     [80, 60], // size of the icon
+    shadowSize:   [80, 60], // size of the shadow
     iconAnchor:   [22, 94], // point of the icon which will correspond to marker's location
     shadowAnchor: [4, 62],  // the same for the shadow
     popupAnchor:  [-3, -76] // point from which the popup should open relative to the iconAnchor
