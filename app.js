@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
   // Create a marker with popup and add it to the map
   var marker = L.marker([-23.516357107383552, -46.835143207955774]).addTo(map);
-  marker.bindPopup("Amada turma de DMD, você está aqui, onde há muitas possibilidades de crescimento!").openPopup();
+  marker.bindPopup("Amada turma de DMD, você está aqui, onde há muitas possibilidades de crescimento !").openPopup();
 
 
   
