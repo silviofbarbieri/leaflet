@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', function () {
   }).addTo(map);
 
   var greenIcon = L.icon({
-    iconUrl: 'https://t3.ftcdn.net/jpg/02/73/16/24/240_F_273162497_ShAAB1TH0vhM4UUWbhBuao8jtGBDubwD.jpg',
+    iconUrl: 'https://png.pngtree.com/png-clipart/20230514/original/pngtree-smile-dog-on-white-background-png-image_9160783.png',
 
     iconSize:     [80, 60], // size of the icon
     iconAnchor:   [22, 94], // point of the icon which will correspond to marker's location
